@@ -481,6 +481,13 @@ header .menu.active {
    .logo {
       margin-top: 10px;
    }
+    header .menu {
+      filter: invert(#fff);
+   }
+
+   header .menu.active {
+      filter: invert(#fff);
+   }
 
    .nav {
       right: 0;
