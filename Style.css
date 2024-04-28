@@ -481,13 +481,6 @@ header .menu.active {
    .logo {
       margin-top: 10px;
    }
-    header .menu {
-      filter: #fff;
-   }
-
-   header .menu .active {
-    filter: #fff;
-   }
 
    .nav {
       right: 0;
