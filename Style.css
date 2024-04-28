@@ -482,11 +482,11 @@ header .menu.active {
       margin-top: 10px;
    }
     header .menu {
-      filter: invert(#fff);
+      filter: #fff;
    }
 
    header .menu.active {
-      filter: invert(#fff);
+    filter: #fff;
    }
 
    .nav {
