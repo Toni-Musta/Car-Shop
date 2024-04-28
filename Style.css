@@ -485,7 +485,7 @@ header .menu.active {
       filter: #fff;
    }
 
-   header .menu.active {
+   header .menu .active {
     filter: #fff;
    }
 
